@@ -13,7 +13,7 @@ name                     : &name "АРК: Транспортная логист�
 description              : &description "Сайт содержит инструкции, новости и информацию о системе"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "arctl/docs"
+repository               : "revdinskyghoul.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/site-logo-arc-32-32.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -81,7 +81,7 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-150923996-1"
+    tracking_id          : ""
     anonymize_ip         : #true
 
 
